@@ -10080,7 +10080,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "1uH"
 			(at 72.39 20.32 90)
 			(show_name no)
 			(do_not_autoplace no)
