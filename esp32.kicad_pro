@@ -672,13 +672,17 @@
         "uuid": "ed90f77c-b22c-4c56-93cf-adb997fe463f"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U2-4,R16-20,J3-4,C20-26,C29-31,C33,C35-42,#PWR21,#PWR25-29,#PWR31-38,#PWR40,#PWR48-54,SW3",
     "variants": []
   },
   "sheets": [
     [
       "ed90f77c-b22c-4c56-93cf-adb997fe463f",
       "Root"
+    ],
+    [
+      "b8fa0e49-f5a7-487b-9c4d-37006cd02876",
+      "page 2"
     ]
   ],
   "text_variables": {},
