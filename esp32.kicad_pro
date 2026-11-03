@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.95,
-          "width": 0.8
+          "height": 0.875,
+          "width": 0.25
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -679,10 +679,6 @@
     [
       "ed90f77c-b22c-4c56-93cf-adb997fe463f",
       "Root"
-    ],
-    [
-      "b8fa0e49-f5a7-487b-9c4d-37006cd02876",
-      "page 2"
     ]
   ],
   "text_variables": {},
