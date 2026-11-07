@@ -1,1 +1,2 @@
-"This is my project with the batteries and charging controller for the mp3" 
+"This is my first project, an MP3 capable of streaming music with an esp32"
+inspiration - META GLASSES😊
